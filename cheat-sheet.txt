@@ -1,0 +1,6 @@
+Its boolean True and False not FALSE and TRUE. You can print them. (e.9.2)
+
+
+lista = ['spam', 1, ['Brie', 'Roquefort', 'Pol le Veq'], [1, 2, 3]];
+lista(i) would gove an error. It considers lista a function. Thats y.
+lista[i] won't

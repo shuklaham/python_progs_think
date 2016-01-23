@@ -1,0 +1,19 @@
+Till 31st June:
+Edx Analytics
+Data Scientist Toolbox
+Data Apacahe PySpark
+Think Python - till 25 June
+Python Algorithms - From 25 June
+Elections Paper - 1 pager
+
+Till 30th July
+Stanford Algorithms
+Leet Code
+Cracking the Coding Interview
+InterviewBit
+EDX Analytics
+R Programming
+Data Apache Spark
+
+Get request in Python
+Jason parsing
